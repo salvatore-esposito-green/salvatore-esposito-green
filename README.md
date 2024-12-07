@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [Codemotion](https://www.codemotion.com/)
 
-🌱 I’m currently learning **React Native**
+🌱 I’m currently learning **React Native**, **Flutter** & **.NET**
 
 ###
 
